@@ -1,4 +1,13 @@
 body {
   height: 2000px;
   width: 100vw;
-}/*# sourceMappingURL=style.css.map */
+}
+content {
+  margin: 0 auto;
+  border: 1px solid black;
+  width: 1160px;
+  height: calc(1160px - 280px);
+  background-color: aqua;
+}
+.block1 {
+}
