@@ -1,4 +1,33 @@
 body {
-  height: 2000px;
-  width: 100vw;
-}/*# sourceMappingURL=style.css.map */
+    height: 2000px;
+    width: 100vw;
+}
+
+.title3 {
+    background: green;
+    height: 40px;
+    width: 760px;
+    margin: auto auto 40px;
+}
+
+.block_blue {
+    height: 200px;
+    background: blue;
+    width: 200px;
+    border: 1px solid;
+}
+
+.main_block {
+    margin-bottom: 40px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.block_grey {
+    width: 600px;
+    height: 120px;
+    background-color: grey;
+    margin-left: 40px;
+    margin-right: 40px;
+    border: 1px solid;
+}
