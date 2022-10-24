@@ -3,6 +3,14 @@ body {
     width: 100vw;
 }
 
+content {
+    margin: 0 auto;
+    border: 1px solid black;
+    width: 1160px;
+    height: calc(1160px - 280px);
+    background-color: aqua;
+}
+
 .title3 {
     background: green;
     height: 40px;
