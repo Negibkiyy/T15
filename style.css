@@ -3,12 +3,12 @@ body {
     width: 100vw;
 }
 
-content {
+.content {
     margin: 0 auto;
     border: 1px solid black;
-    width: 1160px;
-    height: calc(1160px - 280px);
-    background-color: aqua;
+    width: calc(1160px - 80px);
+    padding: 0 40px;
+    padding-top: 60px;
 }
 
 .title3 {
@@ -38,4 +38,18 @@ content {
     margin-left: 40px;
     margin-right: 40px;
     border: 1px solid;
+}
+
+header{
+    background-color: yellow;
+    width: 100vw;
+    height: 5vw;
+}
+body{
+    margin: 0;
+}
+footer{
+    background-color: red;
+    width: 100vw;
+    height: 5vw;
 }
