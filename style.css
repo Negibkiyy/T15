@@ -2,3 +2,20 @@ body {
   height: 2000px;
   width: 100vw;
 }/*# sourceMappingURL=style.css.map */
+
+header{
+  background-color: yellow;
+  width: 100vw;
+  height: 5vw;
+}
+body{
+  margin: 0;
+}
+footer{
+  background-color: red;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100vw;
+  height: 5vw;
+}
