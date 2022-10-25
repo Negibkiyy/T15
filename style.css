@@ -8,7 +8,7 @@ body {
     border: 1px solid black;
     width: calc(1160px - 80px);
     padding: 0 40px;
-    padding-top: 60px;
+    padding-top: 20px;
 }
 
 .title3 {
@@ -38,6 +38,50 @@ body {
     margin-left: 40px;
     margin-right: 40px;
     border: 1px solid;
+}
+
+.block1 {
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+
+.block1 h1 {
+    height: 40px;
+    width: 760px;
+    background-color: green;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+
+.block1 .row {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+}
+
+.block1 .row .row-block {
+    display: flex;
+    gap: 120px;
+}
+
+.block1 .row .row-block .card {
+    padding: 40px;
+    outline: 1px solid;
+
+}
+
+.block1 .row .row-block .card p {
+    margin: 0;
+    height: 160px;
+    width: 120px;
+    background-color: grey;
+}
+
+.block1 .row .row-block .card .img {
+    height: 80px;
+    width: 120px;
+    background-color: blue;
+    margin-top: 40px;
 }
 
 header{
