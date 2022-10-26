@@ -97,3 +97,43 @@ footer{
     width: 100vw;
     height: 5vw;
 }
+
+.imgbox1 {
+  width: 160px; 
+  height: 160px; 
+  border:1px solid; 
+  background-color: blue;
+  float:left;
+  margin-left: 120px;
+
+}
+
+.contentbox1 {
+  width: 720px; 
+  height: 160px; 
+  border:1px solid; 
+  margin:0px 120px 0 0;
+  background-color: grey;
+  float: right;
+}
+
+.imgbox2 {
+  width: 160px; 
+  height: 160px; 
+  border:1px solid; 
+  background-color: blue;
+  float:left;
+  margin-left: 120px;
+  margin-top: 40px;
+
+}
+
+.contentbox2 {
+  width: 720px; 
+  height: 160px; 
+  border:1px solid; 
+  margin:0px 120px 0 0;
+  background-color: grey;
+  float: right;
+  margin-top: 40px;
+}
