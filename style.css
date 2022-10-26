@@ -18,20 +18,25 @@ body {
     margin: auto auto 40px;
 }
 
-.block_blue {
+.block_blue_3 {
     height: 200px;
     background: blue;
     width: 200px;
     border: 1px solid;
 }
 
-.main_block {
+.main_block_3 {
     margin-bottom: 40px;
     display: flex;
     align-items: flex-end;
 }
 
-.block_grey {
+.main_block_2 {
+    display: flex;
+    gap: 80px;
+}
+
+.block_grey_3 {
     width: 600px;
     height: 120px;
     background-color: grey;
